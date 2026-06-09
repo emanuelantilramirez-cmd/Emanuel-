@@ -1,0 +1,6 @@
+{
+  "name": "Cerebro Trading IA",
+  "description": "AI trading simulator with autonomous currency agents, cross-currency loans, automated risk controls, and automated bank payouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
